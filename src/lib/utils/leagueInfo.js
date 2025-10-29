@@ -25,7 +25,7 @@ export const managers = [
       "managerID" : "460285617041829888",
       "name": "Tite Guys",
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/titeguys.jpg", // square ratio recommended (no larger than 500x500)
     //  "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
     //  "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //  "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -42,13 +42,13 @@ export const managers = [
      // "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-    //  "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "464188053762600960",
       "name": "Gay Boys",
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //  "location": "Brooklyn", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/gayboys.jpg", // square ratio recommended (no larger than 500x500)
     //  "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
     //  "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //  "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
