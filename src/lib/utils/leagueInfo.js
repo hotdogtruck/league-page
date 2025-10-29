@@ -21,11 +21,9 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-    //  "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "460285617041829888",
       "name": "Tite Guys",
-    //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //  "location": "Brooklyn", // (optional)
     //  "bio": "Lorem ipsum...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
     //  "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
